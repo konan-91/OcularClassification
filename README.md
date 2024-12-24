@@ -1,2 +1,9 @@
-# ocular_classification
-Dissertation Project: generating EEG plots and training a computer vision model to detect artifacts in EEG data.
+**Creating a computer vision model for classifying ocular EEG data**
+
+Description here...
+
+
+...
+
+
+...
