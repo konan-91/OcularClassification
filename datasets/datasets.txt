@@ -1,0 +1,2 @@
+EEG eye artifact dataset used for model training
+https://osf.io/2qgrd/
