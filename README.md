@@ -4,7 +4,7 @@ EEG data requires cleaning and preprocessing before the electrical signals can b
   
 By training a computer vision model on topoplots of both artifacts (in our case, blinks) and negative data we can teach it to classify ocular artifacts. We can then use the model in our preprocessing pipeline to remove them automatically with human accuracy - thousands of times faster, and without the expertise.  
 
-[image](https://github.com/user-attachments/assets/9d215fb3-ec54-4f41-ad3e-9a05e7dff231)
+https://github.com/user-attachments/assets/9d215fb3-ec54-4f41-ad3e-9a05e7dff231
 
 Here is a **general overview** of the project:
 1. Downloading public datasets, and processing the data for training.
